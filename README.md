@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bonginkosi1988
-- 👀 I’m interested in ...Data_analysis 
-- 🌱 I’m currently learning ...Data_analytics
+- 👀 I’m interested in ...Data_analysis and data science 
+- 🌱 I’m currently learning ...Data_ Science through Regenesys 
 - 💞️ I’m looking to collaborate on ...Data_science 
 - 📫 How to reach me ...mcbonka@gmail.com
 - 😄 Pronouns: ...
